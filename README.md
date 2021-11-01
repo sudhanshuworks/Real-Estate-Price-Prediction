@@ -17,3 +17,12 @@ In this data set i am going to use regression algorithm for predicting the price
 *sklearn.metrics , plot_confusion_matrix (draws a confusion matrix)
 
 *matplotlib.pyplot
+
+# **Data Cleaning: Handle NA values**
+<br />drop na value
+<br />df3= df2.dropna()
+<br />df3.isnull().sum()
+
+# **Feature Engineering**
+# **please checkout the Predicting House Prices.ipynb **
+<br /> i had written all the steps in order to predict the price step-by-step
